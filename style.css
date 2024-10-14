@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(135deg, #e5bdfa, #bceff6, #f9debd) no-repeat;
+}
+.section {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    padding: 15px;
+    border: 10px solid #ffffff;
+    border-radius: 15px;
+    margin: 300px;
+    width: 800px;
+    background: linear-gradient(135deg, #f0f4ff, #ffffff);
+    font-family: "Nunito Sans", sans-serif;
+    
+}
+.bir {
+    background-color:#e5bdfa ;
+    height: 45px;
+    width: 100px;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+.eky {
+    background-color: #bceff6 ;
+    height: 45px;
+    width: 150px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.ysh {
+    background-color: #f9debd ;
+    height: 45px;
+    width: 100px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.first, .sec {
+    padding-right: 40px;
+}
+.h4 {
+    width: 250px;
+}
+h2 {
+    font-size: larger;
+    font-family: "Noto Serif", serif;
+}
+h1 {
+    font-size: 50px;
+}
+.sec {
+    padding-right: 100px;
+}
+
